@@ -1,0 +1,11 @@
+item_id,domain,prompt,color_richness,contrast,notes
+I01,food,"""Imagine a ripe strawberry with tiny yellow seeds and glossy highlights.""",high,medium,red-focused
+I02,nature,"""Imagine a sunset gradient shifting from gold to magenta to deep violet.""",high,high,gradient
+I03,nature,"""Imagine turquoise water with bright white foam and dark blue depth.""",high,high,blue contrast
+I04,object,"""Imagine a matte gray cube on a white table under soft light.""",low,low,low color
+I05,plant,"""Imagine a matte gray cube on a white table under soft light.""",medium,medium,texture
+I06,environment,"""Imagine a leaf with vivid green veins and subtle yellow edges.""",high,high,neon
+I07,food,"""Imagine a night street with neon signs reflecting on wet pavement.""",low,low,neutral
+I08,art,"""Imagine a bowl of plain oatmeal under neutral daylight.""",high,high,high saturation
+I09,object,"""Imagine a stained-glass window with intense reds and blues.""",low,low,low color
+I10,plant,"""Imagine a sunflower with bright petals and a dark patterned center.""",high,medium,"yellow, texture"
